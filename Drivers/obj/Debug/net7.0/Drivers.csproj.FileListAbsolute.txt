@@ -1,0 +1,15 @@
+D:\repos1\NUnitSeleniumTestFramework\Drivers\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+D:\repos1\NUnitSeleniumTestFramework\Drivers\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+D:\repos1\NUnitSeleniumTestFramework\Drivers\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+D:\repos1\NUnitSeleniumTestFramework\Drivers\bin\Debug\net7.0\Drivers.deps.json
+D:\repos1\NUnitSeleniumTestFramework\Drivers\bin\Debug\net7.0\Drivers.dll
+D:\repos1\NUnitSeleniumTestFramework\Drivers\bin\Debug\net7.0\Drivers.pdb
+D:\repos1\NUnitSeleniumTestFramework\Drivers\obj\Debug\net7.0\Drivers.csproj.AssemblyReference.cache
+D:\repos1\NUnitSeleniumTestFramework\Drivers\obj\Debug\net7.0\Drivers.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos1\NUnitSeleniumTestFramework\Drivers\obj\Debug\net7.0\Drivers.AssemblyInfoInputs.cache
+D:\repos1\NUnitSeleniumTestFramework\Drivers\obj\Debug\net7.0\Drivers.AssemblyInfo.cs
+D:\repos1\NUnitSeleniumTestFramework\Drivers\obj\Debug\net7.0\Drivers.csproj.CoreCompileInputs.cache
+D:\repos1\NUnitSeleniumTestFramework\Drivers\obj\Debug\net7.0\Drivers.dll
+D:\repos1\NUnitSeleniumTestFramework\Drivers\obj\Debug\net7.0\refint\Drivers.dll
+D:\repos1\NUnitSeleniumTestFramework\Drivers\obj\Debug\net7.0\Drivers.pdb
+D:\repos1\NUnitSeleniumTestFramework\Drivers\obj\Debug\net7.0\ref\Drivers.dll
